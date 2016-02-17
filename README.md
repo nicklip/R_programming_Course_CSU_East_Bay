@@ -8,7 +8,7 @@ This course covered the following topics:
 * Sorting  
 * DataFrames  
 * File I/O  
-* Implementing Probability Techniques and PDFs   
+* Implementing Probability Techniques and using CDFs & PDFs   
 * Filtering  
 * Plotting  
 * Matrix Operations  
